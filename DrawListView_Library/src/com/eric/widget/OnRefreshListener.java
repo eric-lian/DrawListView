@@ -1,7 +1,6 @@
 package com.eric.widget;
 
 /**
- * @author andong
  * RefreshListView刷新事件的监听
  */
 public interface OnRefreshListener {

@@ -21,7 +21,6 @@ import android.widget.TextView;
 import com.andong.refreshlistview_library.R;
 
 /**
- * @author andong
  * 下拉刷新, 上拉加载 ListView
  */
 public class RefreshListView extends ListView implements OnScrollListener {
@@ -274,7 +273,6 @@ public class RefreshListView extends ListView implements OnScrollListener {
 	}
 	
 	/**
-	 * @author andong
 	 * 头布局的状态
 	 */
 	public enum DisplayMode {
